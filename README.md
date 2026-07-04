@@ -28,7 +28,7 @@ Stay tuned – more coming soon as I learn and grow!
 
 - 📧 Email: [m.hamzahamin19@gmail.com]
 - 🌐 Portfolio: [your-portfolio-link.com] *(Coming soon!)*
-- 💬 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com) *(Optional)*
+- 💬 LinkedIn: https://www.linkedin.com/in/muhammad-hamzah-amin-258514333/
 
 ---
 
